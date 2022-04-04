@@ -2,3 +2,4 @@
 .idea
 app/venv
 cdk/node_modules
+cdk/cdk.out
